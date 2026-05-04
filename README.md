@@ -6,7 +6,7 @@
   <tr>
     <td><strong>Gonuguntla Pavani – LinkedIn</strong></td>
     <td align="center">
-      <a href="https://www.linkedin.com/in/sivakumar-reddy-mettukuru" target="_blank">
+      <a href="www.linkedin.com/in/pavani-gonuguntla" target="_blank">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="24" />
       </a>
     </td>
